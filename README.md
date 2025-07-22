@@ -1,8 +1,10 @@
 <h1 align="center">Heyyy! I'm Zanethemba Ngwenya 🙂</h1>
 
+
 ## 👨🏽‍💻 About Me
 
 🚀 WeThinkCode Alumni | Java & Spring Boot Developer | Full-Stack with Angular | Backend Specialist | Agile & TDD Advocate | Always Learning and Growing
+
 
 I'm a passionate Full Stack Developer with hands-on experience building scalable, high-performance applications using **Java, Spring Boot, Angular, TypeScript, and Python**. While I specialize in backend development, I bring full-stack capability—writing clean, maintainable code that drives real-world impact.
 
@@ -22,10 +24,11 @@ I'm a passionate Full Stack Developer with hands-on experience building scalable
 ![CSS](https://img.shields.io/badge/CSS-2965f1?style=flat&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
+
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 
 **Tools & Practices:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -37,10 +40,12 @@ I'm a passionate Full Stack Developer with hands-on experience building scalable
 ![Mockito](https://img.shields.io/badge/Mockito-FFCB2B?style=flat)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+
 **Practices:**  
 Agile • TDD • CI/CD • Pair Programming • Code Reviews
 
 ---
+
 
 ## 📊 GitHub Stats
 
@@ -49,6 +54,7 @@ Agile • TDD • CI/CD • Pair Programming • Code Reviews
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zanethemba-Ngwenya&layout=compact&theme=tokyonight)
 
 ---
+
 
 ## 🤝 Let’s Connect
 
