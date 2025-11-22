@@ -3,7 +3,7 @@
 
 ## 👨🏽‍💻 About Me
 
-<p align="center">🚀 Full Stack Developer | Backend Specialist | Java & Spring Boot | Angular | Python | Agile and TDD Advocate</p>
+<p align="center">🚀 Full Stack Developer | Backend Specialist | Java & Spring Boot | Angular & TypeScript | Python | Agile and TDD Advocate</p>
 
 
 I'm a passionate Full Stack Developer who enjoys turning ideas into real-world solutions. I thrive in backend development using **Java, Spring Boot, and Python**, and I bring strong front-end capability with **Angular and TypeScript** to create clean and scalable applications.
