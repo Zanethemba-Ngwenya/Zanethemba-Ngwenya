@@ -3,12 +3,13 @@
 
 ## 👨🏽‍💻 About Me
 
-🚀 WeThinkCode Alumni | Java & Spring Boot Developer | Full-Stack with Angular | Backend Specialist | Agile & TDD Advocate | Always Learning and Growing
+🚀 Full Stack Developer | Backend Specialist | Java & Spring Boot | Angular | Python | Agile and TDD Advocate
 
+I'm a passionate Full Stack Developer who enjoys turning ideas into real-world solutions. I thrive in backend development using **Java, Spring Boot, and Python**, and I bring strong front-end capability with **Angular and TypeScript** to create clean and scalable applications.
 
-I'm a passionate Full Stack Developer with hands-on experience building scalable, high-performance applications using **Java, Spring Boot, Angular, TypeScript, and Python**. While I specialize in backend development, I bring full-stack capability—writing clean, maintainable code that drives real-world impact.
+My journey began at **WeThinkCode_**, where I learned to think critically, solve complex problems, and collaborate in agile environments. I later refined my skills at **Shaper**, delivering production-ready solutions and gaining a deep appreciation for teamwork, resilience, and maintainable code.
 
-🎓 Trained at **WeThinkCode_** and sharpened through agile, production-grade team projects at **Shaper**, I thrive in fast-paced, collaborative environments where problem-solving and innovation are at the core.
+I am driven by curiosity and a growth mindset. I enjoy building projects, learning new technologies, and contributing positively to every team I work with.
 
 ---
 
@@ -42,7 +43,7 @@ I'm a passionate Full Stack Developer with hands-on experience building scalable
 
 
 **Practices:**  
-Agile • TDD • CI/CD • Pair Programming • Code Reviews
+Agile • Scrum • TDD • Clean Code • CI/CD • Pair Programming • Code Reviews • Continuous Improvement
 
 ---
 
@@ -55,6 +56,7 @@ Agile • TDD • CI/CD • Pair Programming • Code Reviews
 
 ---
 
+I believe in continuous learning, collaboration, and building solutions that make a meaningful impact.
 
 ## 🤝 Let’s Connect
 
