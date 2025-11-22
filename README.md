@@ -47,6 +47,10 @@ Agile • Scrum • TDD • Clean Code • CI/CD • Pair Programming • Code R
 
 ---
 
+I believe in continuous learning, collaboration, and building solutions that make a meaningful impact.
+
+---
+
 
 ## 📊 GitHub Stats
 
@@ -55,8 +59,6 @@ Agile • Scrum • TDD • Clean Code • CI/CD • Pair Programming • Code R
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zanethemba-Ngwenya&layout=compact&theme=tokyonight)
 
 ---
-
-I believe in continuous learning, collaboration, and building solutions that make a meaningful impact.
 
 ## 🤝 Let’s Connect
 
