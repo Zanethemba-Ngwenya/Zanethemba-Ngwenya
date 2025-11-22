@@ -1,4 +1,4 @@
-<h1 align="center">Heyyy! I'm Zanethemba Ngwenya 🙂</h1>
+<h1 align="center">Heyyy! I'm Zanethemba Ngwenya 👋</h1>
 
 
 ## 👨🏽‍💻 About Me
